@@ -5,7 +5,7 @@
 
 ---
 
-### 👋 Hey, I'm **coder400**
+### 👋 Hey, I'm **Coder4OO**
 
 I'm a developer who likes exploring ideas through code — mostly in **Python** and **C/C++**.  
 I enjoy understanding how things work under the hood, automating small tasks, and building tools that just *do their job quietly.*
